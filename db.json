@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "bismar",
+      "empresa": "ffds",
+      "email": "fafow69930@moneyzon.com",
+      "telefono": "69933860",
+      "notas": "revef",
+      "id": 4
+    },
+    {
+      "nombre": "dfgdfg",
+      "empresa": "ertrgr",
+      "email": "rytry@fsf",
+      "telefono": "69933860",
+      "notas": "gfhfgh",
+      "id": 5
+    }
+  ]
+}
